@@ -2,7 +2,7 @@
 Creating this space to store documents that can be described as notes, resource links, and otherwise hoarding of data of the digital kind.
 
 ## TODO
-Since there is only one document atm, I will not bother with structure. yet.nnnnn
+Since there is only one document atm, I will not bother with structure. yet...
 
 ## Map
 
