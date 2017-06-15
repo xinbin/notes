@@ -6,4 +6,4 @@ Since there is only one document atm, I will not bother with structure. yet.nnnn
 
 ## Map
 
-[Drupal 8 resource links for studying](https://github.com/xinbin/notes/blob/master/Drupal_study_items.md),  
+[Drupal 8 resource links for studying](https://github.com/xinbin/notes/blob/master/Drupal_study_items.md, "Drupal 8") 
