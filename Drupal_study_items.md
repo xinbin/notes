@@ -18,7 +18,7 @@
 
 
 #### Resources
-[Web Dev](https://developer.mozilla.org/en-US/docs/Web)
-[self assessment](https://docs.google.com/spreadsheets/d/1JyTUCmF9fS4DFxCLZfxZMsBfdbkitNMRVh-NkvBcccM/edit#gid=0)
-[acquia training Resources](https://training.acquia.com/courses)
-[docker4drupal](http://docs.docker4drupal.org/en/latest/)
+[Web Dev](https://developer.mozilla.org/en-US/docs/Web)  
+[self assessment](https://docs.google.com/spreadsheets/d/1JyTUCmF9fS4DFxCLZfxZMsBfdbkitNMRVh-NkvBcccM/edit#gid=0)  
+[acquia training Resources](https://training.acquia.com/courses)  
+[docker4drupal](http://docs.docker4drupal.org/en/latest/)  
